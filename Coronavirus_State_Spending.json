@@ -1,0 +1,352 @@
+[
+ {
+   "State": "Alabama",
+   "State Code": "AL",
+   "Allocation": "1,901,262,160",
+   "Costs Incurred": "3,347,668",
+   "Percentage": "0.20%"
+ },
+ {
+   "State": "Alaska",
+   "State Code": "AK",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "352,121,301",
+   "Percentage": "28.20%"
+ },
+ {
+   "State": "Arizona",
+   "State Code": "AZ",
+   "Allocation": "2,822,399,972",
+   "Costs Incurred": "554,971,835",
+   "Percentage": "19.70%"
+ },
+ {
+   "State": "Arkansas",
+   "State Code": "AR",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "264,100,879",
+   "Percentage": "21.10%"
+ },
+ {
+   "State": "California",
+   "State Code": "CA",
+   "Allocation": "15,321,284,928",
+   "Costs Incurred": "11,415,457,753",
+   "Percentage": "74.50%"
+ },
+ {
+   "State": "Colorado",
+   "State Code": "CO",
+   "Allocation": "2,233,011,164",
+   "Costs Incurred": "1,259,478,118",
+   "Percentage": "56.40%"
+ },
+ {
+   "State": "Connecticut",
+   "State Code": "CT",
+   "Allocation": "1,382,477,973",
+   "Costs Incurred": "63,415,715",
+   "Percentage": "4.60%"
+ },
+ {
+   "State": "Delaware",
+   "State Code": "DE",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "80,066,797",
+   "Percentage": "6.40%"
+ },
+ {
+   "State": "Florida",
+   "State Code": "FL",
+   "Allocation": "8,328,221,072",
+   "Costs Incurred": "968,760,278",
+   "Percentage": "11.60%"
+ },
+ {
+   "State": "Georgia",
+   "State Code": "GA",
+   "Allocation": "4,117,018,751",
+   "Costs Incurred": "942,066,962",
+   "Percentage": "22.90%"
+ },
+ {
+   "State": "Hawaii",
+   "State Code": "HI",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "150,455,925",
+   "Percentage": "12.00%"
+ },
+ {
+   "State": "Idaho",
+   "State Code": "ID",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "63,558,638",
+   "Percentage": "5.10%"
+ },
+ {
+   "State": "Illinois",
+   "State Code": "IL",
+   "Allocation": "4,913,633,437",
+   "Costs Incurred": "753,487,498",
+   "Percentage": "15.30%"
+ },
+ {
+   "State": "Indiana",
+   "State Code": "IN",
+   "Allocation": "2,610,489,557",
+   "Costs Incurred": "934,172,285",
+   "Percentage": "35.80%"
+ },
+ {
+   "State": "Iowa",
+   "State Code": "IA",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "578,010,726",
+   "Percentage": "46.20%"
+ },
+ {
+   "State": "Kansas",
+   "State Code": "KS",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "18,322,453",
+   "Percentage": "1.50%"
+ },
+ {
+   "State": "Kentucky",
+   "State Code": "KY",
+   "Allocation": "1,732,387,748",
+   "Costs Incurred": "111,275,142",
+   "Percentage": "6.40%"
+ },
+ {
+   "State": "Louisiana",
+   "State Code": "LA",
+   "Allocation": "1,802,619,343",
+   "Costs Incurred": "557,296,187",
+   "Percentage": "30.90%"
+ },
+ {
+   "State": "Maine",
+   "State Code": "ME",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "299,114,916",
+   "Percentage": "23.90%"
+ },
+ {
+   "State": "Maryland",
+   "State Code": "MD",
+   "Allocation": "2,344,276,754",
+   "Costs Incurred": "1,012,078,461",
+   "Percentage": "43.20%"
+ },
+ {
+   "State": "Massachusetts",
+   "State Code": "MA",
+   "Allocation": "2,672,641,383",
+   "Costs Incurred": "955,895,504",
+   "Percentage": "35.80%"
+ },
+ {
+   "State": "Michigan",
+   "State Code": "MI",
+   "Allocation": "3,872,510,075",
+   "Costs Incurred": "310,965,493",
+   "Percentage": "8.00%"
+ },
+ {
+   "State": "Minnesota",
+   "State Code": "MN",
+   "Allocation": "2,186,827,321",
+   "Costs Incurred": "28,977,190",
+   "Percentage": "1.30%"
+ },
+ {
+   "State": "Mississippi",
+   "State Code": "MS",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "23,248,897",
+   "Percentage": "1.90%"
+ },
+ {
+   "State": "Missouri",
+   "State Code": "MO",
+   "Allocation": "2,379,853,017",
+   "Costs Incurred": "627,029,777",
+   "Percentage": "26.30%"
+ },
+ {
+   "State": "Montana",
+   "State Code": "MT",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "76,431,405",
+   "Percentage": "6.10%"
+ },
+ {
+   "State": "Nebraska",
+   "State Code": "NE",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "54,139,733",
+   "Percentage": "4.30%"
+ },
+ {
+   "State": "Nevada",
+   "State Code": "NV",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "218,847,768",
+   "Percentage": "17.50%"
+ },
+ {
+   "State": "New Hampshire",
+   "State Code": "NH",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "425,108,298",
+   "Percentage": "34.00%"
+ },
+ {
+   "State": "New Jersey",
+   "State Code": "NJ",
+   "Allocation": "3,444,163,690",
+   "Costs Incurred": "162,513,806",
+   "Percentage": "4.70%"
+ },
+ {
+   "State": "New Mexico",
+   "State Code": "NM",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "94,080,713",
+   "Percentage": "7.50%"
+ },
+ {
+   "State": "New York",
+   "State Code": "NY",
+   "Allocation": "7,543,325,288",
+   "Costs Incurred": "4,030,649,058",
+   "Percentage": "53.40%"
+ },
+ {
+   "State": "North Carolina",
+   "State Code": "NC",
+   "Allocation": "4,066,866,178",
+   "Costs Incurred": "358,594,084",
+   "Percentage": "8.80%"
+ },
+ {
+   "State": "North Dakota",
+   "State Code": "ND",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "116,137,261",
+   "Percentage": "9.30%"
+ },
+ {
+   "State": "Ohio",
+   "State Code": "OH",
+   "Allocation": "4,532,572,912",
+   "Costs Incurred": "547,523,759",
+   "Percentage": "12.10%"
+ },
+ {
+   "State": "Oklahoma",
+   "State Code": "OK",
+   "Allocation": "1,534,357,612",
+   "Costs Incurred": "69,578,133",
+   "Percentage": "4.50%"
+ },
+ {
+   "State": "Oregon",
+   "State Code": "OR",
+   "Allocation": "1,635,472,404",
+   "Costs Incurred": "136,113,285",
+   "Percentage": "8.30%"
+ },
+ {
+   "State": "Pennsylvania",
+   "State Code": "PA",
+   "Allocation": "4,964,107,464",
+   "Costs Incurred": "1,324,271,932",
+   "Percentage": "26.70%"
+ },
+ {
+   "State": "Rhode Island",
+   "State Code": "RI",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "247,613,509",
+   "Percentage": "19.80%"
+ },
+ {
+   "State": "South Carolina",
+   "State Code": "SC",
+   "Allocation": "1,996,468,642",
+   "Costs Incurred": "763,028",
+   "Percentage": "0.00%"
+ },
+ {
+   "State": "South Dakota",
+   "State Code": "SD",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "74,790,653",
+   "Percentage": "6.00%"
+ },
+ {
+   "State": "Tennessee",
+   "State Code": "TN",
+   "Allocation": "2,648,084,890",
+   "Costs Incurred": "446,824,464",
+   "Percentage": "16.90%"
+ },
+ {
+   "State": "Texas",
+   "State Code": "TX",
+   "Allocation": "11,243,461,411",
+   "Costs Incurred": "1,366,541,773",
+   "Percentage": "12.20%"
+ },
+ {
+   "State": "Utah",
+   "State Code": "UT",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "235,180,516",
+   "Percentage": "18.80%"
+ },
+ {
+   "State": "Vermont",
+   "State Code": "VT",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "124,339,045",
+   "Percentage": "9.90%"
+ },
+ {
+   "State": "Virginia",
+   "State Code": "VA",
+   "Allocation": "3,309,738,321",
+   "Costs Incurred": "823,060,663",
+   "Percentage": "24.90%"
+ },
+ {
+   "State": "Washington",
+   "State Code": "WA",
+   "Allocation": "2,952,755,793",
+   "Costs Incurred": "126,862,651",
+   "Percentage": "4.30%"
+ },
+ {
+   "State": "West Virginia",
+   "State Code": "WV",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "607,528,714",
+   "Percentage": "48.60%"
+ },
+ {
+   "State": "Wisconsin",
+   "State Code": "WI",
+   "Allocation": "2,257,710,742",
+   "Costs Incurred": "126,126,268",
+   "Percentage": "5.60%"
+ },
+ {
+   "State": "Wyoming",
+   "State Code": "WY",
+   "Allocation": "1,250,000,000",
+   "Costs Incurred": "43,876,721",
+   "Percentage": "3.50%"
+ }
+]
